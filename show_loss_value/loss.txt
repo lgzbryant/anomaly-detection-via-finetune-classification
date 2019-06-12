@@ -1,0 +1,45 @@
+====================LOSS=====================
+
+Epoch 0/9
+train Loss: 8.7686   Acc: 0.0000   AUC: 0.5444
+val Loss: 4.3489   Acc: 0.2273   AUC: 0.2750
+
+Epoch 1/9
+train Loss: 3.7711   Acc: 0.4139   AUC: 0.5338
+val Loss: 2.1413   Acc: 0.8182   AUC: 0.3500
+
+Epoch 2/9
+train Loss: 2.9607   Acc: 0.6475   AUC: 0.5333
+val Loss: 0.9035   Acc: 0.7727   AUC: 0.5833
+
+Epoch 3/9
+train Loss: 1.6157   Acc: 0.7500   AUC: 0.5038
+val Loss: 0.9876   Acc: 0.9091   AUC: 0.2083
+
+Epoch 4/9
+train Loss: 1.4595   Acc: 0.7910   AUC: 0.5196
+val Loss: 2.1458   Acc: 0.6364   AUC: 0.2417
+
+Epoch 5/9
+train Loss: 2.1988   Acc: 0.7828   AUC: 0.4840
+val Loss: 3.4594   Acc: 0.6818   AUC: 0.3500
+
+Epoch 6/9
+train Loss: 2.3493   Acc: 0.7787   AUC: 0.5500
+val Loss: 2.5378   Acc: 0.7273   AUC: 0.7000
+
+Epoch 7/9
+train Loss: 1.5904   Acc: 0.7951   AUC: 0.4369
+val Loss: 1.9787   Acc: 0.7727   AUC: 0.3417
+
+Epoch 8/9
+train Loss: 2.0890   Acc: 0.7869   AUC: 0.4434
+val Loss: 0.4517   Acc: 0.8636   AUC: 0.3917
+
+Epoch 9/9
+train Loss: 2.1886   Acc: 0.7623   AUC: 0.4623
+val Loss: 1.4967   Acc: 0.8636   AUC: 0.3083
+
+Cost time 0hours (0minutes 48s)
+Best val Acc: 0.909091
+Best val AUC: 0.700000
